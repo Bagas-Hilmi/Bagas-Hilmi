@@ -97,16 +97,16 @@ $developer = [
 
 <div align="center">
 
-<a href="https://github.com/Bagas-Hilmi">
+<a href="https://github.com/Bagas-Hilmi" title="GitHub">
   <img
-    src="https://img.shields.io/badge/GitHub-Bagas--Hilmi-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/bagas-hilmi-arib-727bb32b5/">
+<a href="https://www.linkedin.com/in/bagas-hilmi-arib-727bb32b5/" title="LinkedIn">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Bagas%20Hilmi%20Arib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
