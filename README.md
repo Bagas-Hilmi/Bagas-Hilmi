@@ -2,17 +2,17 @@
 
 <h1>Hi, I'm Bagas Hilmi Arib 👋</h1>
 
-<h3>Web Developer specializing in Laravel and Vue.js</h3>
+<h3>Full-Stack Developer</h3>
 
 <p>
-  I build clean, functional, and maintainable web applications using
-  PHP, Laravel, Vue.js, Blade, and MySQL.
+  I build clean, functional, and maintainable web and Android applications
+  using Laravel, Vue.js, Kotlin, and MySQL.
 </p>
 
 <br>
 
 <img
-  src="https://skillicons.dev/icons?i=php,laravel,vue,mysql,git,github,vscode&theme=dark"
+  src="https://skillicons.dev/icons?i=php,laravel,vue,kotlin,androidstudio,mysql,git,github,vscode&theme=dark"
   alt="Tech Stack"
 />
 
@@ -29,11 +29,12 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Focused on web development with **PHP and Laravel**
-- 🎨 Building responsive interfaces using **Vue.js and Blade**
+- 💻 Building full-stack web applications using **PHP, Laravel, Vue.js, and Blade**
+- 📱 Developing native Android applications using **Kotlin**
+- 🎨 Creating clean, responsive, and user-friendly interfaces
 - 🗄️ Working with relational databases using **MySQL**
-- 🌱 Currently improving my backend architecture and frontend development skills
-- 🤝 Open to collaboration, learning opportunities, and interesting web projects
+- 🌱 Currently improving my web and Android development skills
+- 🤝 Open to collaboration, learning opportunities, and interesting projects
 
 ---
 
@@ -51,6 +52,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Mobile Development
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### Database and Tools
 
@@ -73,23 +80,6 @@
 </a>
 
 </div>
-
----
-
-## 🚀 What I'm Working On
-
-```php
-<?php
-
-$developer = [
-    'name'      => 'Bagas Hilmi Arib',
-    'role'      => 'Web Developer',
-    'backend'   => ['PHP', 'Laravel'],
-    'frontend'  => ['Vue.js', 'Blade'],
-    'database'  => ['MySQL'],
-    'currently' => 'Building better web applications',
-];
-```
 
 ---
 
@@ -123,5 +113,4 @@ $developer = [
   ⭐ Feel free to explore my repositories and leave a star if you find something useful.
 </p>
 
-</div>
 </div>
