@@ -81,6 +81,10 @@ Full-Stack Developer focused on building reliable and maintainable web and Andro
   />
 </a>
 
+<br><br>
+
+![GitHub Followers](https://img.shields.io/github/followers/Bagas-Hilmi?label=Follow&style=social)
+
 </div>
 
 ---
