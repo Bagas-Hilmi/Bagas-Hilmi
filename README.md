@@ -89,3 +89,35 @@ $developer = [
     'database'  => ['MySQL'],
     'currently' => 'Building better web applications',
 ];
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Bagas-Hilmi">
+  <img
+    src="https://img.shields.io/badge/GitHub-Bagas--Hilmi-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/bagas-hilmi-arib-727bb32b5/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Bagas%20Hilmi%20Arib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Thanks for visiting my profile! 👋</h3>
+
+<p>
+  ⭐ Feel free to explore my repositories and leave a star if you find something useful.
+</p>
+
+</div>
