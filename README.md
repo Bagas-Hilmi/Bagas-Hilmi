@@ -12,13 +12,6 @@
 <br>
 
 <img
-  src="https://skillicons.dev/icons?i=php,laravel,vue,kotlin,androidstudio,mysql,git,github,vscode&theme=dark"
-  alt="Tech Stack"
-/>
-
-<br><br>
-
-<img
   src="https://komarev.com/ghpvc/?username=Bagas-Hilmi&label=Profile%20Views&style=flat-square"
   alt="Profile Views"
 />
@@ -29,42 +22,29 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Building full-stack web applications using **PHP, Laravel, Vue.js, and Blade**
-- 📱 Developing native Android applications using **Kotlin**
-- 🎨 Creating clean, responsive, and user-friendly interfaces
-- 🗄️ Working with relational databases using **MySQL**
-- 🌱 Currently improving my web and Android development skills
-- 🤝 Open to collaboration, learning opportunities, and interesting projects
+Full-Stack Developer focused on building reliable and maintainable web and Android applications.
+
+- Developing web applications with **Laravel, Vue.js, and Blade**
+- Building native Android applications using **Kotlin**
+- Working with **MySQL**, REST APIs, and responsive user interfaces
+- Committed to clean code, continuous learning, and delivering practical solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Frontend
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Mobile Development
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### Database and Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
