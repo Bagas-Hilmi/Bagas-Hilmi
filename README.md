@@ -89,6 +89,9 @@ $developer = [
     'database'  => ['MySQL'],
     'currently' => 'Building better web applications',
 ];
+```
+
+---
 
 ## 🤝 Connect With Me
 
@@ -120,4 +123,5 @@ $developer = [
   ⭐ Feel free to explore my repositories and leave a star if you find something useful.
 </p>
 
+</div>
 </div>
