@@ -56,7 +56,7 @@ I build clean, functional, and maintainable web applications using PHP, Laravel,
 
 <div align="center">
 
-<img height="180" src="https://ghstats.dev/api/card?username=Bagas-Hilmi&theme=tokyonight&hide_border=true" alt="Bagas Hilmi GitHub Stats" />
+<img height="180" src="https://ghstats.dev/api/card?username=Bagas-Hilmi&theme=tokyonight&hide_border=true&hide=commits" alt="Bagas Hilmi GitHub Stats" />
 
 <br>
 
